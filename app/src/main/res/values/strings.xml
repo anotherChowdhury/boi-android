@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Boi</string>
+    <string name="title_activity_post_books">postBooks</string>
+    <string name="title_activity_post_book">postBook</string>
+</resources>
