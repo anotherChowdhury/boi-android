@@ -4,8 +4,8 @@
 
 
 ###### Screenshots
-[Login]: https://raw.githubusercontent.com/anotherChowdhury/boi-android/master/screenshots/login.jpg "Login"
-[Main Activity]: https://raw.githubusercontent.com/anotherChowdhury/boi-android/master/screenshots/mainactivity.jpg "MainActivity"
-[Main Activity #2]: https://raw.githubusercontent.com/anotherChowdhury/boi-android/master/screenshots/mainactivity2.jpg "MainActivity#2"
-[Post]: https://raw.githubusercontent.com/anotherChowdhury/boi-android/master/screenshots/post.jpg "Post"
-[Signup]: https://raw.githubusercontent.com/anotherChowdhury/boi-android/master/screenshots/signup.jpg "Signup"
+[Login]: https://github.com/anotherChowdhury/boi-android/blob/master/screenshots/login.jpg "Login"
+[Main Activity]: https://github.com/anotherChowdhury/boi-android/blob/master/screenshots/mainactivity.jpg "MainActivity"
+[Main Activity #2]: https://github.com/anotherChowdhury/boi-android/blob/master/screenshots/mainactivity2.jpg "MainActivity#2"
+[Post]: https://github.com/anotherChowdhury/boi-android/blob/master/screenshots/post.jpg "Post"
+[Signup]: https://github.com/anotherChowdhury/boi-android/blob/master/screenshots/signup.jpg "Signup"
